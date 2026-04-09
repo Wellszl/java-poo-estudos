@@ -34,3 +34,8 @@ Cada módulo contém:
 - exercícios práticos
 - exemplos de código
 - anotações relevantes
+
+## Observação
+
+Este repositório contém exercícios e exemplos guiados pelo curso.  
+Projetos autorais baseados nesses aprendizados serão publicados em repositórios separados.
